@@ -1,4 +1,4 @@
-# Markdown config for streamer (Saly)
+# Markdown config for streamer
 
 Markdown template made for showing streamer's data
 
