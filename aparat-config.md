@@ -34,7 +34,7 @@
 - صفحه نمایش : IPS LED-backlit LCD 15.6 Inch 
 
 ------
-[![mouse]](https://ko-fi.com/samirasaly)
+![mouse]
 ## ماوس
 
 &nbsp;
