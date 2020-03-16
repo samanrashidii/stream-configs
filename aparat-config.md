@@ -10,7 +10,7 @@
 
  &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp;
  ---:| ---:| ---:| ---:| ---:
-[![discord]](https://discord.gg/z7qDMaT) دیسکورد | [![telegram]](https://t.me/Samira_Saly) تلگرام | [![instagram]](https://www.instagram.com/samirasaly) اینستاگرام | [![youtube]](https://www.youtube.com/channel/UC56V-HBnuzur3bUh3K7uRAg) یوتیوب | [![twitch]](https://www.twitch.tv/samirasaly) توییچ
+[![discord]](https://discord.gg/z7qDMaT)&nbsp; دیسکورد | [![telegram]](https://t.me/Samira_Saly)&nbsp;&nbsp;&nbsp; تلگرام | [![instagram]](https://www.instagram.com/samirasaly)&nbsp;اینستاگرام | [![youtube]](https://www.youtube.com/channel/UC56V-HBnuzur3bUh3K7uRAg)&nbsp;&nbsp; یوتیوب | [![twitch]](https://www.twitch.tv/samirasaly)&nbsp;&nbsp; توییچ
 
 ------
 ## سیستم مورد استفاده
