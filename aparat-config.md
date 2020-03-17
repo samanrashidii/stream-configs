@@ -58,15 +58,15 @@
 &nbsp;
 [![kofi]](https://ko-fi.com/iamsaly)
 
-[saly]: http://www.samanrashidi.com/saly.png
-[sally]: http://www.samanrashidi.com/sally.png
-[donate]: http://www.samanrashidi.com/donate.png
-[donateHeart]: http://www.samanrashidi.com/donate-heart.png
-[discord]: http://www.samanrashidi.com/discord.png
-[telegram]: http://www.samanrashidi.com/telegram.png
-[instagram]: http://www.samanrashidi.com/instagram.png
-[youtube]: http://www.samanrashidi.com/youtube.png
-[twitch]: http://www.samanrashidi.com/twitch.png
-[laptop]: http://www.samanrashidi.com/laptop.png
-[mouse]: http://www.samanrashidi.com/mouse.png
-[kofi]: http://www.samanrashidi.com/kofi.png
+[saly]: http://saly.samanrashidi.com/saly.png
+[sally]: http://saly.samanrashidi.com/sally.png
+[donate]: http://saly.samanrashidi.com/donate.png
+[donateHeart]: http://saly.samanrashidi.com/donate-heart.png
+[discord]: http://saly.samanrashidi.com/discord.png
+[telegram]: http://saly.samanrashidi.com/telegram.png
+[instagram]: http://saly.samanrashidi.com/instagram.png
+[youtube]: http://saly.samanrashidi.com/youtube.png
+[twitch]: http://saly.samanrashidi.com/twitch.png
+[laptop]: http://saly.samanrashidi.com/laptop.png
+[mouse]: http://saly.samanrashidi.com/mouse.png
+[kofi]: http://saly.samanrashidi.com/kofi.png
