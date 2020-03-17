@@ -5,6 +5,7 @@ Markdown template made for showing streamer's data
 ## Language
 
 English - LTR
+
 Persian - RTL
 
 ## Demo
