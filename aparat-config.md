@@ -52,9 +52,31 @@
 
 - تعداد کلیدها : 6 عدد
 
-- ابعاد : 38.2 × 62.15 × 116.6 میلی‌متر
-
 - وزن : 99 گرم
+
+------
+![headset]
+## هدست
+
+&nbsp;
+
+- مدل : Asus Cerberus Gaming Headset
+
+- رنگ : مشکی
+
+- نوع اتصال : با سیم
+
+------
+![webcam]
+## وب کم
+
+&nbsp;
+
+- مدل : Logitech C922 Pro Stream
+
+- کیفیت فیلم برداری : Full HD 1080p
+
+- میدان دید لنز : 78 درجه
 
 ------
 
@@ -75,4 +97,6 @@
 [twitch]: http://saly.samanrashidi.com/twitch.png
 [laptop]: http://saly.samanrashidi.com/laptop.png
 [mouse]: http://saly.samanrashidi.com/mouse.png
+[headset]: http://saly.samanrashidi.com/headset.png
+[webcam]: http://saly.samanrashidi.com/webcam.png
 [kofi]: http://saly.samanrashidi.com/kofi.png
