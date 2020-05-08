@@ -1,4 +1,3 @@
-&nbsp;
 ## Who am I?
 
 My real name is Saman but people know me as VorteX or MadVorteX. I'm a 30 years old Iranian gamer and developer who enjoys playing games for a long time.
@@ -10,9 +9,9 @@ I Started my professional gaming carrier since 2003 where I won a WCG tournament
 ## What games do I play now?
 
 - Overwatch 50%
-- Story/Nostalgia Games 20%
-- Fortnite 10%
+- Valorant 20%
+- Story/Nostalgia Games 10%
+- Fortnite 5%
 - Apex 5%
-- Call of Duty: Warzone 5%
 - Heroes of the Storm 5%
 - Heroes of Newerth 5%

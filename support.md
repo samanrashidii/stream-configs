@@ -1,7 +1,4 @@
-&nbsp;
-&nbsp;
-Supports are really means a lot to me and will help me to improve myself 💚
-&nbsp;
-[![donate]](https://www.reymit.ir/madvortex)
 
-[donate]: http://samanrashidi.com/stream/twitch-donate-button.png
+Supports are highly appreciated  and will help me to improve myself and my stream 💚
+#[💰 Donate via Iranian Card](https://www.reymit.ir/madvortex)
+&nbsp;
