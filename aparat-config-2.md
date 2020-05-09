@@ -32,5 +32,5 @@
 [instagram]: http://samanrashidi.com/stream/instagram_green.png
 [youtube]: http://samanrashidi.com/stream/youtube_green.png
 [twitch]: http://samanrashidi.com/stream/twitch_green.png
-[donate]: http://samanrashidi.com/stream/donate2.png
-[line]: http://samanrashidi.com/stream/line.jpg
+[donate]: http://samanrashidi.com/stream/donate_green.png
+[line]: http://samanrashidi.com/stream/line_green.jpg
