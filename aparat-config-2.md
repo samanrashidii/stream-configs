@@ -22,7 +22,7 @@
 
  &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp;
  ---:| ---:| ---:| ---:| ---:
-اینستاگرام [![instagram]](https://www.instagram.com/mad.vortex) | &nbsp;یوتیوب [![youtube]](https://www.youtube.com/channel/UCpY49kWlUc2IBNheCuDxfxg) | &nbsp;توییچ [![twitch]](https://www.twitch.tv/samanmadvortex) | 
+اینستاگرام [![instagram]](https://www.instagram.com/mad.vortex) | &nbsp;یوتیوب [![youtube]](https://www.youtube.com/channel/UCpY49kWlUc2IBNheCuDxfxg) | &nbsp;دیسکورد [![discord]](https://discord.gg/JJyZKn) | &nbsp;توییچ [![twitch]](https://www.twitch.tv/samanmadvortex) |
 
 ------
 ![line]
@@ -32,5 +32,6 @@
 [instagram]: http://samanrashidi.com/stream/instagram_green.png
 [youtube]: http://samanrashidi.com/stream/youtube_green.png
 [twitch]: http://samanrashidi.com/stream/twitch_green.png
+[discord]: http://samanrashidi.com/stream/discord_green.png
 [donate]: http://samanrashidi.com/stream/donate_green.png
 [line]: http://samanrashidi.com/stream/line_green.jpg
