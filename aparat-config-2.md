@@ -22,7 +22,7 @@
 
  &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp;
  ---:| ---:| ---:| ---:| ---:
-اینستاگرام [![instagram]](https://www.instagram.com/mad.vortex) | &nbsp;یوتیوب [![youtube]](https://www.youtube.com/channel/UCpY49kWlUc2IBNheCuDxfxg) | &nbsp;دیسکورد [![discord]](https://discord.gg/JJyZKn) | &nbsp;توییچ [![twitch]](https://www.twitch.tv/samanmadvortex) |
+اینستاگرام [![instagram]](https://www.instagram.com/mad.vortex) | &nbsp;یوتیوب [![youtube]](https://www.youtube.com/channel/UCpY49kWlUc2IBNheCuDxfxg) | &nbsp;دیسکورد [![discord]](https://discord.gg/JkfbSPY) | &nbsp;توییچ [![twitch]](https://www.twitch.tv/samanmadvortex) |
 
 ------
 ![line]
